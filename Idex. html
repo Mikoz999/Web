@@ -1,0 +1,277 @@
+<html>
+    <head>
+     <link rel="stylesheet" href="styles.css">
+     <!-- for all screens -->
+     <meta name="viewport"content="width=device-width, initial-scale=1" >
+     
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Kolker+Brush&family=Xanh+Mono:ital@0;1&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+        <title>Babar shop website</title>
+        
+ </head>
+ <body>
+    <section id="bunner">
+     <img class="logo"src="logo.1.png"> 
+      <div class="burnner-text">
+        <h1>World Class Restorant</h1>
+       <p>We give our costumers the best </p>
+        <div class="bunner-btn">
+            <a href="#"><span></span>
+                Contact us</a>
+            <a href="#"><span></span>
+                Read more</a>
+        </div>
+      </div>
+      </section>
+      <div id="sidenav">
+       <nav>
+          <ul>
+     <li><a href="#bunner">HOME</a></li>
+     <li><a href="#feature">SERVICES</a></li>
+     <li><a href="#service">MENU</a></li>
+    <li>
+     <a href="#testimonials">TESTIMONIALS</a>
+    </li>
+      <li><a href="#footer">MEET US</a></li>
+            
+         </ul>
+     </nav>
+      </div>  
+      <div id="menuBtn">
+          <img src="menu.png"id"menu" alt="">
+      </div>  
+     
+      <!-- features -->
+      
+      <section id="feature">
+        <div class="title-text">
+             <p>FEATURES</p> 
+             <h1>Why chose us</h1>
+        </div>
+        <div id="feature-box">
+        <div class="features">
+             <h1>Experienced staff</h1>
+        <div class="features-desc">
+            <div class="feature-icon">
+                <i class="fa fa-shield" ></i>
+            </div>
+            <div class="features-text">
+               <p>This is our kitchen, our 
+               chefs prepares for you all
+               kinds of foods in our menu</p>
+            </div>
+        </div>
+        
+             <h1>Pre booking online</h1>
+        <div class="features-desc">
+            <div class="feature-icon">
+                <i class=
+                "fa fa-check-square-o" ></i>
+            </div>
+            <div class="features-text">
+               <p>You can book accomodation/
+               room online anytime,from our
+                website.
+               </p>
+            </div>
+        </div>
+        
+             <h1>Affordable cost</h1>
+        <div class="features-desc">
+            <div class="feature-icon">
+                <i class="fa fa-inr" ></i>
+            </div>
+            <div class="features-text">
+               <p>Service are available
+                at a fair price.</p>
+            </div>
+        </div>
+       </div>
+          <div class="features-img">
+          <img src="chef-man.png"alt="">
+         </div>
+      
+      </section>
+      
+      <!-------- service -------------->
+      
+    <section id="service">
+       <div class="title-text">
+             <p>SERVICES</p> 
+             <h1>WE OFFER OUR CUSTOMERS
+             THE BEST</h1>
+       <div class="service-box">
+          <div class="single-service">
+            <img src="services 1.jpeg">
+            <div class="over-lay"></div>
+            <div class="service-desc">
+            <h3>Stunning food</h3>
+            <hr>
+            <p>Every dish meticulously
+               </p>
+               </div>
+            </div>
+            <div class="single-service">
+            <img src="services 3.jpeg">
+            <div class="over-lay"></div>
+            <div class="service-desc">
+            <h3>Stunning food</h3>
+            <hr>
+            <p>Great service, professional,
+               </p>
+               </div>
+            </div>
+            
+           <div class="single-service">
+            <img src="services 4.jpeg">
+           <div class="over-lay"></div>
+            <div class="service-desc">
+            <h3>Stunning food</h3>
+            <hr>
+            <p>Great service, professional,
+            </p>
+               </div>
+           </div>
+            
+          <div class="single-service">
+            <img src="services2.jpeg">
+            <div class="over-lay"></div>
+            <div class="service-desc">
+            <h3>Stunning food</h3>
+            <hr>
+            <p>Great service, professional,
+               </p>
+               </div>
+            </div>
+            
+         </div>
+       </div>
+     </section>
+     
+     <!-------Testimonials------->
+   <section id="testimonials">
+      <div class="title-text">
+           <p>TESTIMONIALS</p> 
+           <h1>WHAT CLIENTS SAY</h1>
+      </div>
+        <div class="testimonial-row">
+          <div class="testimonial-col">
+                <div class="user">
+                <img src="testimony 1.jpg">
+                <div class="user-info">
+                  <h4>SHANTEL CLINT
+                <i class="fa fa-twitter"></i>
+                 </h4>
+                  <small>@shantel.788</small>
+                </div>
+           
+                      
+            <p>Stunning food. Every dish meticulously thought out and full of intricate flavours. Service impeccable, not stuffy. Perfect balance, well done guys</p>
+          </div>
+           </div>
+        <div class="testimonial-col">
+             <div class="user">
+                <img src="testimony 2.jpg">
+                <div class="user-info">
+                  <h4>FIDEL CASTRO
+                <i class="fa fa-twitter"></i>
+                 </h4>
+                  <small>@fidelcastro</small>
+                </div>
+              <p>A clear and light ambiente. Open kitchen. Great service, professional, calm and relaxed with humor. Extraordinary dishes. Chef Teshi presents compositions with bold mixtures of spices, offering unexpected taste experiences. You have the choice of two menues</p>
+           </div>   
+          </div>
+          <div class="testimonial-col">
+               <div class="user">
+                <img src="testimony 3.jpeg">
+                <div class="user-info">
+                  <h4>Mike Brax
+                <i class="fa fa-twitter"></i>
+                 </h4>
+                  <small>@mikebrax</small>
+                </div>
+              <p>Wow wow wow 5 stars!!!!
+Wow wow wow wow wow wow wow This was very special I came here with my brother and we are major foodies this is one of my top 5 places perhaps I have ever eaten at the staff was amazing as well!!</p>
+          </div>
+      </div>
+     </div>
+   </section>
+   
+   <!--------footer ------------>
+   <section id="footer">
+<!--<img class="footer-img"src="footer.png"> -->
+      <div class="title-text">
+           <p>CONTACT US</p> 
+          <h1>VISIT OUR RESTAURANT TODAY</h1>
+          </div>
+          <div class="footer-row">
+             <div class="footer-left">
+                 <h1>Opening hours</h1>
+             <p><i class="fa fa-clock-o"></i>
+                     we service are offered
+                  daily</p>
+             <p><i class="fa fa-clock-o"></i>
+                  Open for 24 hours</p>
+             </div>
+             <div class="footer-right">
+                 <h1>Get in touch</h1>
+            <p>+254 797 762 839
+            <i class="fa fa-phone"></i>
+            </p>
+            <p>+254 719 235 362
+            <i class="fa fa-phone"></i>
+            </p>
+            <p>mikozotieno@gmail.com
+            <i class="fa fa-paper-plane"></i>
+            </p>
+            <p>taitataveta county around voi
+            <i class="fa fa-map-marker"></i>
+            </p>
+           
+                 
+             </div>
+          </div>
+      </div>
+      <div class="social-links">
+          <i class="fa fa-facebook"></i>
+          <i class="fa fa-instagram"></i>
+          <i class="fa fa-twitter"></i>
+          <i class="fa fa-youtube-play"></i>
+          <p>sample website by
+           mikozotieno@gmail.com</p>
+      </div>
+   </section>
+   
+   
+   
+   
+   <script>
+          var menuBtn =document.getElementById
+          ("menuBtn")
+          var sidenav =document.getElementById
+          ("sidenav")
+          var menu =document.getElementById
+          ("menu")
+          sidenav.style.right="-150px"
+          menuBtn.onclick=function(){
+              if(sidenav.style.right=="-150px"){
+          sidenav.style.right="0";  
+          
+              }
+          else{ 
+          sidenav.style.right="-150px";
+          
+          }  
+          }
+          
+/* var scroll = new smoothsSroll('a[href*="#"]',{
+     speed: 1000,
+     speedAsDuration: true
+ });         */
+      </script>  
+    
+ </body>
+</html>
